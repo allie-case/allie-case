@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi everyone! My name is Allie and I'm the Endocrine Lab Manager at [SEZARC](https://sezarc.org/about/). I recently graduated from George Mason University with my MSc in Conservation Science and Policy, where I studied hormones in Antarctic blue whales and fin whales. I'm broadly interested in the intersection between mammal reproductive physiology and climate change. My dream role would be collaborating with scientists across discplines to integrate environmental data withh indvidual physiology profiles. 
+Hi everyone! My name is Allie and I'm the Endocrine Lab Manager at [SEZARC](https://sezarc.org/about/). I recently graduated from George Mason University with my MSc in Conservation Science and Policy, where I studied hormones in Antarctic blue whales and fin whales. I'm broadly interested in the intersection between mammal reproductive physiology and climate change. My dream role would be collaborating with scientists across disciplines to integrate environmental data withh indvidual physiology profiles. 
 <!--
 **allie-case/allie-case** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
