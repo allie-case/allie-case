@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-Hi everyone! My name is Allie and I'm the Endocrine Lab Manager at [SEZARC](https://sezarc.org/about/). 
+Hi everyone! My name is Allie and I'm the Endocrine Lab Manager at [SEZARC](https://sezarc.org/about/). Here's a little bit more about me...
 
 - I recently graduated from George Mason University with my MSc in Conservation Science and Policy, where I studied hormones in Antarctic blue whales and fin whales. 
-- I'm broadly interested in the intersection between mammal reproductive physiology and climate change. My dream role would be collaborating with scientists across disciplines to integrate environmental data withh indvidual physiology profiles.
+- I'm broadly interested in the intersection between mammal reproductive physiology and climate change. My dream role would be collaborating with scientists across disciplines to integrate long-term environmental data with indvidual physiology profiles.
 
 ## Education
 - M.S. Conservation Science and Policy - George Mason University
